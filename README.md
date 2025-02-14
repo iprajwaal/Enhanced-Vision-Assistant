@@ -1,6 +1,13 @@
 # 🚀 Enhanced Vision Assistant  
 
-A **state-of-the-art** computer vision application designed to assist **visually impaired individuals** with real-time navigation and situational awareness. The system leverages cutting-edge AI technologies (**Vertex AI, Gemini Pro, Google Cloud Vision API, and Google Text-to-Speech API**) to **identify objects, evaluate risks, and deliver smart audio directions** through voice commands and natural language processing.  
+A **state-of-the-art** computer vision application designed to assist **visually impaired individuals** with real-time navigation and situational awareness. The system leverages cutting-edge AI technologies (**Vertex AI, Gemini Pro, Google Cloud Vision API, and Google Text-to-Speech API**) to **identify objects, evaluate risks, and deliver smart audio directions** through voice commands and natural language processing.
+
+## 🎥 Demo Video
+
+<video width="600" controls>
+  <source src="assets/Enhanced-Vision-Assistant-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## ✨ Features  
 
