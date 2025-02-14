@@ -4,10 +4,7 @@ A **state-of-the-art** computer vision application designed to assist **visually
 
 ## 🎥 Demo Video
 
-<video width="600" controls>
-  <source src="assets/Enhanced-Vision-Assistant-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/fe943124-3d3b-4ba1-ab87-324b21469421
 
 ## ✨ Features  
 
