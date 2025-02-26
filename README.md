@@ -47,7 +47,7 @@ cd enhanced-vision-assistant
 
 2️⃣ **Install required packages:**  
 ```bash
-pip install opencv-python pygame google-cloud-vision google-cloud-texttospeech vertexai numpy scipy
+pip install -r requirements.txt  
 ```  
 
 3️⃣ **Set up Google Cloud credentials:**  
